@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://titilayojaiyesimi.vercel.app/sitemap.xml
